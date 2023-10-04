@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.20.0)
+    prettier_print (1.2.1)
+    syntax_tree (6.2.0)
+      prettier_print (>= 1.2.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  minitest (~> 5.20)
+  syntax_tree (~> 6.2)
+
+BUNDLED WITH
+   2.3.7
