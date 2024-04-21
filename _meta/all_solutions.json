@@ -1,0 +1,730 @@
+[
+  {
+    "uuid": "0f96b4565ada4359a643135d1979ed0d",
+    "last_iterated_at": "2023-01-25T23:14:45Z",
+    "track": "go",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "5d680959c89c428cbb3de8908d059253",
+    "last_iterated_at": "2023-01-25T23:22:23Z",
+    "track": "go",
+    "exercise": "lasagna",
+    "status": "published"
+  },
+  {
+    "uuid": "e6079cea3dba4657a9c7786d723e2e06",
+    "last_iterated_at": "2023-01-26T00:02:30Z",
+    "track": "go",
+    "exercise": "cars-assemble",
+    "status": "published"
+  },
+  {
+    "uuid": "5ebe0fab55144222a4420d66af5afe26",
+    "last_iterated_at": "2023-01-26T05:27:57Z",
+    "track": "go",
+    "exercise": "weather-forecast",
+    "status": "completed"
+  },
+  {
+    "uuid": "a1f2e8b5aaf5477ba9c7c2dccb7a9783",
+    "last_iterated_at": "2023-01-26T05:38:30Z",
+    "track": "go",
+    "exercise": "annalyns-infiltration",
+    "status": "published"
+  },
+  {
+    "uuid": "ca16c45886e149d89d2addead15527df",
+    "last_iterated_at": "2023-01-26T06:44:00Z",
+    "track": "go",
+    "exercise": "welcome-to-tech-palace",
+    "status": "published"
+  },
+  {
+    "uuid": "d01f2451ac384c2e8a73d1f978a6c872",
+    "last_iterated_at": "2023-02-04T23:51:56Z",
+    "track": "elixir",
+    "exercise": "lasagna",
+    "status": "published"
+  },
+  {
+    "uuid": "7edd9dbd8e5c4faea7653f4db0587994",
+    "last_iterated_at": "2023-02-05T03:38:20Z",
+    "track": "elixir",
+    "exercise": "pacman-rules",
+    "status": "published"
+  },
+  {
+    "uuid": "b9051d62b95b4b9a8ed62d9dbdc862f7",
+    "last_iterated_at": "2023-02-05T05:16:50Z",
+    "track": "elixir",
+    "exercise": "secrets",
+    "status": "published"
+  },
+  {
+    "uuid": "6a72cea0a492428489fa97d5de7ec89b",
+    "last_iterated_at": "2023-02-06T01:12:42Z",
+    "track": "elixir",
+    "exercise": "language-list",
+    "status": "published"
+  },
+  {
+    "uuid": "29232df08b2046a791bdfeaa34d1bb85",
+    "last_iterated_at": "2023-02-06T02:16:44Z",
+    "track": "elixir",
+    "exercise": "log-level",
+    "status": "published"
+  },
+  {
+    "uuid": "e3b30212df7646e7a280822e2b4ed288",
+    "last_iterated_at": "2023-03-04T18:45:44Z",
+    "track": "go",
+    "exercise": "isogram",
+    "status": "published"
+  },
+  {
+    "uuid": "429d64368a934205aa7f1290dbfd90cb",
+    "last_iterated_at": "2023-03-04T18:51:52Z",
+    "track": "cpp",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "d7cd5d9f919d4d839ad41a43084f625c",
+    "last_iterated_at": "2023-03-04T18:59:25Z",
+    "track": "cpp",
+    "exercise": "leap",
+    "status": "published"
+  },
+  {
+    "uuid": "f21e12c7584b4fa69215f783176a7813",
+    "last_iterated_at": "2023-03-04T19:22:10Z",
+    "track": "go",
+    "exercise": "two-fer",
+    "status": "published"
+  },
+  {
+    "uuid": "f74afedc9e0f49a0b3cd9568ecb57453",
+    "last_iterated_at": "2023-03-04T22:21:39Z",
+    "track": "go",
+    "exercise": "sieve",
+    "status": "published"
+  },
+  {
+    "uuid": "e06aaf3f17b24c27b0f52d5f46baa798",
+    "last_iterated_at": "2023-03-04T22:32:05Z",
+    "track": "go",
+    "exercise": "pangram",
+    "status": "published"
+  },
+  {
+    "uuid": "3aac26a589a24961a132f563a19095c4",
+    "last_iterated_at": "2023-04-24T03:22:48Z",
+    "track": "julia",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "a3bd5472314548429772a94fe8af59a9",
+    "last_iterated_at": "2023-04-24T06:30:40Z",
+    "track": "julia",
+    "exercise": "word-count",
+    "status": "published"
+  },
+  {
+    "uuid": "72769cc83fc54064bc0127e1649c043d",
+    "last_iterated_at": "2023-04-25T06:45:34Z",
+    "track": "julia",
+    "exercise": "sum-of-multiples",
+    "status": "published"
+  },
+  {
+    "uuid": "4b316bf33b1a42878c55b2e85542c068",
+    "last_iterated_at": "2023-04-25T22:13:04Z",
+    "track": "julia",
+    "exercise": "etl",
+    "status": "published"
+  },
+  {
+    "uuid": "9155770e2d1346d8869366b7cb6d984f",
+    "last_iterated_at": "2023-04-25T22:54:18Z",
+    "track": "julia",
+    "exercise": "largest-series-product",
+    "status": "published"
+  },
+  {
+    "uuid": "3f890152ea004d7e8091e4167caf8cef",
+    "last_iterated_at": "2023-04-26T03:57:33Z",
+    "track": "julia",
+    "exercise": "saddle-points",
+    "status": "published"
+  },
+  {
+    "uuid": "b339a652424541bb96a6f5825ba38cff",
+    "last_iterated_at": "2023-06-03T02:15:48Z",
+    "track": "clojure",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "bc3b65cbf8bf4d9eb257022650efde82",
+    "last_iterated_at": "2023-06-03T04:50:51Z",
+    "track": "clojure",
+    "exercise": "lucians-luscious-lasagna",
+    "status": "published"
+  },
+  {
+    "uuid": "28fbade256674a4e88aeb53bfc7aa30d",
+    "last_iterated_at": "2023-06-03T21:05:59Z",
+    "track": "clojure",
+    "exercise": "two-fer",
+    "status": "published"
+  },
+  {
+    "uuid": "8aad857af15c414dae9606b891cc22d4",
+    "last_iterated_at": "2023-06-04T03:19:41Z",
+    "track": "clojure",
+    "exercise": "log-levels",
+    "status": "published"
+  },
+  {
+    "uuid": "a7307ed44bfd419b9fe9a97897b5ec05",
+    "last_iterated_at": "2023-06-04T03:34:38Z",
+    "track": "clojure",
+    "exercise": "cars-assemble",
+    "status": "published"
+  },
+  {
+    "uuid": "48e313f224aa41e6bd549e479112c7e4",
+    "last_iterated_at": "2023-06-04T05:06:44Z",
+    "track": "clojure",
+    "exercise": "robot-name",
+    "status": "published"
+  },
+  {
+    "uuid": "9d5c07798fe54976aa8a9bcbee21b9e0",
+    "last_iterated_at": "2023-07-01T21:02:46Z",
+    "track": "cobol",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "d02b8855197f43a9b5118b014f43ac04",
+    "last_iterated_at": "2023-07-01T23:36:07Z",
+    "track": "cobol",
+    "exercise": "reverse-string",
+    "status": "completed"
+  },
+  {
+    "uuid": "e2c049fe3f594230b975ce44d91df70c",
+    "last_iterated_at": "2023-07-01T23:41:08Z",
+    "track": "vbnet",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "e288a986c0884157b1d0fadee5ba8a23",
+    "last_iterated_at": "2023-07-02T04:38:18Z",
+    "track": "vbnet",
+    "exercise": "reverse-string",
+    "status": "published"
+  },
+  {
+    "uuid": "e4f75dfa8c81484ba967aad521fc6366",
+    "last_iterated_at": "2023-07-02T06:46:26Z",
+    "track": "vbnet",
+    "exercise": "high-scores",
+    "status": "published"
+  },
+  {
+    "uuid": "2140589173f240e7ae6a457958cac2e9",
+    "last_iterated_at": "2023-07-03T00:18:31Z",
+    "track": "vbnet",
+    "exercise": "bob",
+    "status": "published"
+  },
+  {
+    "uuid": "0df2bef6b0ff4eb9b99d21e8d6e870a8",
+    "last_iterated_at": "2023-07-03T01:31:43Z",
+    "track": "vbnet",
+    "exercise": "allergies",
+    "status": "published"
+  },
+  {
+    "uuid": "8195163bba064a1e9cba9e2bf013011a",
+    "last_iterated_at": "2023-07-03T06:35:48Z",
+    "track": "vbnet",
+    "exercise": "armstrong-numbers",
+    "status": "published"
+  },
+  {
+    "uuid": "acaad09a20c344d2a935959f322ffb36",
+    "last_iterated_at": "2023-07-27T22:28:25Z",
+    "track": "fortran",
+    "exercise": "hello-world",
+    "status": "iterated"
+  },
+  {
+    "uuid": "5e7360443bbb4ed490f566488700e22f",
+    "last_iterated_at": "2023-08-08T23:30:24Z",
+    "track": "elm",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "3869c977f15541e89c2e3c6631e3d3ee",
+    "last_iterated_at": "2023-08-09T00:24:23Z",
+    "track": "swift",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "6d5cfaf77e824bcea35fa1c35e0826a2",
+    "last_iterated_at": "2023-08-09T01:12:52Z",
+    "track": "swift",
+    "exercise": "triangle",
+    "status": "published"
+  },
+  {
+    "uuid": "76bfa741e20c43619a323c684a213bc1",
+    "last_iterated_at": "2023-08-09T06:23:27Z",
+    "track": "swift",
+    "exercise": "rna-transcription",
+    "status": "published"
+  },
+  {
+    "uuid": "689a9c5c63c04873a190a68cccb2a19c",
+    "last_iterated_at": "2023-08-09T06:46:17Z",
+    "track": "swift",
+    "exercise": "scrabble-score",
+    "status": "published"
+  },
+  {
+    "uuid": "4172010d4c214d15bbdb0aecdeae6a5c",
+    "last_iterated_at": "2023-08-09T16:39:09Z",
+    "track": "swift",
+    "exercise": "phone-number",
+    "status": "published"
+  },
+  {
+    "uuid": "30e2d306c9af4aa88090ef97c61321d7",
+    "last_iterated_at": "2023-08-10T02:06:26Z",
+    "track": "swift",
+    "exercise": "anagram",
+    "status": "published"
+  },
+  {
+    "uuid": "458d5939b2134a26966c263968cf83cf",
+    "last_iterated_at": "2023-08-10T17:15:17Z",
+    "track": "elixir",
+    "exercise": "freelancer-rates",
+    "status": "published"
+  },
+  {
+    "uuid": "2356cbb0298e4d4483a301ce4e67d79f",
+    "last_iterated_at": "2023-08-10T20:36:12Z",
+    "track": "go",
+    "exercise": "secret-handshake",
+    "status": "published"
+  },
+  {
+    "uuid": "575349d9aeb14c4e88b5510fffcda9ef",
+    "last_iterated_at": "2023-08-10T21:26:45Z",
+    "track": "go",
+    "exercise": "binary-search",
+    "status": "published"
+  },
+  {
+    "uuid": "1427ff3b12f842cc8dcf541c8c843be5",
+    "last_iterated_at": "2023-08-11T02:28:07Z",
+    "track": "elixir",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "d269d379b74a4ae99484bcfa31a52f1f",
+    "last_iterated_at": "2023-08-11T05:01:16Z",
+    "track": "go",
+    "exercise": "simple-linked-list",
+    "status": "published"
+  },
+  {
+    "uuid": "708717d673ac4f639132dc0891f59476",
+    "last_iterated_at": "2023-08-11T06:29:37Z",
+    "track": "elixir",
+    "exercise": "hamming",
+    "status": "published"
+  },
+  {
+    "uuid": "82fa662d0161436b9c4eeab7ab5abb5a",
+    "last_iterated_at": "2023-08-11T07:05:35Z",
+    "track": "elixir",
+    "exercise": "collatz-conjecture",
+    "status": "published"
+  },
+  {
+    "uuid": "2b2d75c6a5ab4f268f0fc2984713a562",
+    "last_iterated_at": "2023-08-12T00:14:49Z",
+    "track": "elixir",
+    "exercise": "robot-simulator",
+    "status": "published"
+  },
+  {
+    "uuid": "6391eacf33dc46169850d4c975bf77ad",
+    "last_iterated_at": "2023-08-12T06:22:20Z",
+    "track": "elixir",
+    "exercise": "protein-translation",
+    "status": "published"
+  },
+  {
+    "uuid": "d5f0f3158e8b435f8257b52c9494640d",
+    "last_iterated_at": "2023-08-12T07:12:23Z",
+    "track": "elixir",
+    "exercise": "yacht",
+    "status": "published"
+  },
+  {
+    "uuid": "bee1497611854d3a987656761470b007",
+    "last_iterated_at": "2023-08-12T07:30:29Z",
+    "track": "clojure",
+    "exercise": "leap",
+    "status": "published"
+  },
+  {
+    "uuid": "1322f5faa9cb44a5a417e545ef652af7",
+    "last_iterated_at": "2023-08-12T07:51:58Z",
+    "track": "clojure",
+    "exercise": "difference-of-squares",
+    "status": "published"
+  },
+  {
+    "uuid": "e5b586acfc594c7992000a504a94cecc",
+    "last_iterated_at": "2023-08-12T19:58:47Z",
+    "track": "clojure",
+    "exercise": "matching-brackets",
+    "status": "published"
+  },
+  {
+    "uuid": "d5138b71178542768e3c65fd7b91ff54",
+    "last_iterated_at": "2023-09-06T16:21:23Z",
+    "track": "jq",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "a7bdb53855954175bf216141ba196fe3",
+    "last_iterated_at": "2023-09-07T04:07:03Z",
+    "track": "jq",
+    "exercise": "series",
+    "status": "published"
+  },
+  {
+    "uuid": "b75f5b0c87b44eff97e6fab23ae0a8f2",
+    "last_iterated_at": "2023-09-07T04:52:06Z",
+    "track": "jq",
+    "exercise": "darts",
+    "status": "published"
+  },
+  {
+    "uuid": "e657eb90eca34a659901cc0b7f4c7b64",
+    "last_iterated_at": "2023-09-08T06:58:29Z",
+    "track": "jq",
+    "exercise": "atbash-cipher",
+    "status": "published"
+  },
+  {
+    "uuid": "fd27bcbe4f364e6da9b324f3f94bb3ff",
+    "last_iterated_at": "2023-09-12T00:36:11Z",
+    "track": "jq",
+    "exercise": "gigasecond",
+    "status": "published"
+  },
+  {
+    "uuid": "5cc49e8f01284f8eb804c47fcc0990ae",
+    "last_iterated_at": "2023-09-12T05:34:33Z",
+    "track": "jq",
+    "exercise": "luhn",
+    "status": "published"
+  },
+  {
+    "uuid": "b682a8f236d644328f2c08dee8a5967e",
+    "last_iterated_at": "2023-10-03T05:12:14Z",
+    "track": "ruby",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "33424f07116f4ff0803e4f264788935b",
+    "last_iterated_at": "2023-10-03T07:29:51Z",
+    "track": "ruby",
+    "exercise": "simple-cipher",
+    "status": "published"
+  },
+  {
+    "uuid": "7c3e595d5b9b4570b5b78c1ad2db40b7",
+    "last_iterated_at": "2023-10-04T00:46:50Z",
+    "track": "ruby",
+    "exercise": "clock",
+    "status": "published"
+  },
+  {
+    "uuid": "75f70cc7ab144dc0bb76ee318e8a4a1b",
+    "last_iterated_at": "2023-10-04T04:25:54Z",
+    "track": "ruby",
+    "exercise": "matrix",
+    "status": "published"
+  },
+  {
+    "uuid": "f9516bc05e1f4b67bac06d449575d31f",
+    "last_iterated_at": "2023-10-04T05:47:55Z",
+    "track": "ruby",
+    "exercise": "binary-search-tree",
+    "status": "published"
+  },
+  {
+    "uuid": "1dd10a0e06214cdb8df24eb03e450a08",
+    "last_iterated_at": "2023-10-05T04:02:54Z",
+    "track": "ruby",
+    "exercise": "circular-buffer",
+    "status": "published"
+  },
+  {
+    "uuid": "4dde4964d2a943e9842d548da956d038",
+    "last_iterated_at": "2023-11-02T01:00:27Z",
+    "track": "wasm",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "db86e61428a4496fa2c7567d4f76ca08",
+    "last_iterated_at": "2023-11-03T08:07:12Z",
+    "track": "wasm",
+    "exercise": "nucleotide-count",
+    "status": "published"
+  },
+  {
+    "uuid": "dae2e7cfa4154157a87dbe7d7a984dfe",
+    "last_iterated_at": "2023-11-04T22:39:14Z",
+    "track": "wasm",
+    "exercise": "grains",
+    "status": "published"
+  },
+  {
+    "uuid": "b99489c246364243913b50480a98e281",
+    "last_iterated_at": "2023-11-05T04:38:34Z",
+    "track": "wasm",
+    "exercise": "eliuds-eggs",
+    "status": "published"
+  },
+  {
+    "uuid": "667f39f2c957468da524b56e8fcd71e7",
+    "last_iterated_at": "2023-11-05T06:45:18Z",
+    "track": "wasm",
+    "exercise": "rotational-cipher",
+    "status": "published"
+  },
+  {
+    "uuid": "b02f9348c50549d6901cdeda3090041f",
+    "last_iterated_at": "2023-11-05T08:13:14Z",
+    "track": "wasm",
+    "exercise": "resistor-color",
+    "status": "published"
+  },
+  {
+    "uuid": "cf3091409bbd400bac28375db096b81f",
+    "last_iterated_at": "2023-11-27T22:13:28Z",
+    "track": "lua",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "590a455577594e7faa41dff44909aeee",
+    "last_iterated_at": "2023-12-01T04:20:07Z",
+    "track": "wren",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "8df184f373c54b0391731d9016dbef5d",
+    "last_iterated_at": "2023-12-03T03:31:54Z",
+    "track": "wren",
+    "exercise": "two-fer",
+    "status": "published"
+  },
+  {
+    "uuid": "69f4352f257d4278ae8dd284ca72f7ec",
+    "last_iterated_at": "2023-12-03T03:55:02Z",
+    "track": "wren",
+    "exercise": "flatten-array",
+    "status": "published"
+  },
+  {
+    "uuid": "710ab7dbcf54499a931b9372b665591a",
+    "last_iterated_at": "2023-12-03T07:21:07Z",
+    "track": "wren",
+    "exercise": "dnd-character",
+    "status": "published"
+  },
+  {
+    "uuid": "d0fb049d7f634792a34e942b10c7edb1",
+    "last_iterated_at": "2023-12-07T03:55:48Z",
+    "track": "wren",
+    "exercise": "all-your-base",
+    "status": "published"
+  },
+  {
+    "uuid": "16df57621cd3443484f88c97ee35ce17",
+    "last_iterated_at": "2023-12-07T05:46:24Z",
+    "track": "wren",
+    "exercise": "run-length-encoding",
+    "status": "published"
+  },
+  {
+    "uuid": "606bb04fa846473b8a6c8b62ab7ba574",
+    "last_iterated_at": "2023-12-09T04:20:28Z",
+    "track": "lua",
+    "exercise": "queen-attack",
+    "status": "published"
+  },
+  {
+    "uuid": "3d9f6333e0e443818460df0904636241",
+    "last_iterated_at": "2023-12-09T04:40:40Z",
+    "track": "lua",
+    "exercise": "hamming",
+    "status": "published"
+  },
+  {
+    "uuid": "8eeb4ae4231c4e7189a88e5dbbc7212d",
+    "last_iterated_at": "2023-12-09T05:27:08Z",
+    "track": "lua",
+    "exercise": "high-scores",
+    "status": "published"
+  },
+  {
+    "uuid": "ca976cd238e0467ca73c392722b75f26",
+    "last_iterated_at": "2023-12-09T05:38:23Z",
+    "track": "lua",
+    "exercise": "difference-of-squares",
+    "status": "published"
+  },
+  {
+    "uuid": "2ad594bf11684c43aa3e2193c42d1c6d",
+    "last_iterated_at": "2023-12-09T07:46:29Z",
+    "track": "lua",
+    "exercise": "bank-account",
+    "status": "published"
+  },
+  {
+    "uuid": "6dfb4c9889c44a3e9b92180c4d75fd16",
+    "last_iterated_at": "2024-01-01T22:24:13Z",
+    "track": "rust",
+    "exercise": "hello-world",
+    "status": "published"
+  },
+  {
+    "uuid": "0916992f3fa14ae2a634fc032c3a31e0",
+    "last_iterated_at": "2024-01-17T07:46:39Z",
+    "track": "rust",
+    "exercise": "leap",
+    "status": "published"
+  },
+  {
+    "uuid": "22037f8fcc494072b9e3e2eb4d4b2da7",
+    "last_iterated_at": "2024-01-17T07:51:24Z",
+    "track": "python",
+    "exercise": "leap",
+    "status": "published"
+  },
+  {
+    "uuid": "5b5f173dd5d44b8383adbd4d63b19e3e",
+    "last_iterated_at": "2024-01-24T08:00:58Z",
+    "track": "rust",
+    "exercise": "reverse-string",
+    "status": "published"
+  },
+  {
+    "uuid": "467ec3f29cdc43b9b005150b6839c906",
+    "last_iterated_at": "2024-01-30T17:55:59Z",
+    "track": "rust",
+    "exercise": "raindrops",
+    "status": "published"
+  },
+  {
+    "uuid": "2c05a580ab8048cbbbad48592c27633a",
+    "last_iterated_at": "2024-02-10T05:05:39Z",
+    "track": "rust",
+    "exercise": "roman-numerals",
+    "status": "published"
+  },
+  {
+    "uuid": "58f4e830332c49d286a4679ad0efa4b7",
+    "last_iterated_at": "2024-02-15T05:15:00Z",
+    "track": "rust",
+    "exercise": "protein-translation",
+    "status": "published"
+  },
+  {
+    "uuid": "5030aa1b5bf54a4bab73d45a91dcf3a5",
+    "last_iterated_at": "2024-02-21T05:52:19Z",
+    "track": "python",
+    "exercise": "list-ops",
+    "status": "published"
+  },
+  {
+    "uuid": "5e02c33dfe604f24ae8e6f69756e1e09",
+    "last_iterated_at": "2024-02-27T06:19:33Z",
+    "track": "rust",
+    "exercise": "acronym",
+    "status": "published"
+  },
+  {
+    "uuid": "1bceda3389424f9797440034ea5c26df",
+    "last_iterated_at": "2024-03-05T22:42:40Z",
+    "track": "rust",
+    "exercise": "circular-buffer",
+    "status": "published"
+  },
+  {
+    "uuid": "f74d3f88734b438690cf09cf1522aaf7",
+    "last_iterated_at": "2024-03-14T04:27:46Z",
+    "track": "rust",
+    "exercise": "parallel-letter-frequency",
+    "status": "published"
+  },
+  {
+    "uuid": "386c502f17434b17a8c855f228bc7b32",
+    "last_iterated_at": "2024-03-20T02:53:11Z",
+    "track": "rust",
+    "exercise": "allergies",
+    "status": "published"
+  },
+  {
+    "uuid": "d85b2bae14e94c69b7d4d8ba29299c5a",
+    "last_iterated_at": "2024-03-27T05:53:03Z",
+    "track": "rust",
+    "exercise": "sieve",
+    "status": "published"
+  },
+  {
+    "uuid": "5d6bef4bb84541a59dfc7f4b77378ae7",
+    "last_iterated_at": "2024-04-04T05:25:25Z",
+    "track": "rust",
+    "exercise": "luhn",
+    "status": "published"
+  },
+  {
+    "uuid": "8d53610f29024a35b19f85be5456bd32",
+    "last_iterated_at": "2024-04-18T03:38:23Z",
+    "track": "rust",
+    "exercise": "scrabble-score",
+    "status": "published"
+  },
+  {
+    "uuid": "106070d671eb4690980179b620a1c72f",
+    "last_iterated_at": "2024-04-18T04:09:02Z",
+    "track": "rust",
+    "exercise": "difference-of-squares",
+    "status": "published"
+  }
+]
