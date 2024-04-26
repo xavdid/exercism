@@ -1,4 +1,0 @@
-/Users/david/projects/exercism/cpp/leap/CMakeFiles/leap.dir
-/Users/david/projects/exercism/cpp/leap/CMakeFiles/test_leap.dir
-/Users/david/projects/exercism/cpp/leap/CMakeFiles/edit_cache.dir
-/Users/david/projects/exercism/cpp/leap/CMakeFiles/rebuild_cache.dir
