@@ -8,3 +8,9 @@ _default:
 
     git add .
     gg "$(cat .exercism/metadata.json | jq '.track' -r): $(cat .exercism/metadata.json | jq '.exercise' -r)"
+
+# run this from an exercise directory to make a commit with that directory's files
+[no-cd]
+[no-exit-message]
+@sub:
+    exercism submit
